@@ -1,0 +1,42 @@
+.adminPanelData{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 20px 20px;
+}
+.userDataTable{
+    margin: 0% 5%;
+}
+.userDetails{
+    margin: 0% 30%;
+    width: 30%;
+}
+#table{
+    border: 1px solid black;
+    width: 100%;
+}
+.inputData{
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 30px;
+    width: 200px;
+}
+.head{
+    background-color: black;
+    color: white;
+}
+.column1{
+    width: 10%;
+}
+.column2{
+    width: 10%; 
+}
+.column3{
+    width: 10%;
+}
+.column4{
+    width: 35%;
+}
+.column5{
+    width: 35%;
+}
